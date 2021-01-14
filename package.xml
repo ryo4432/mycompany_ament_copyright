@@ -3,8 +3,8 @@
 <package format="2">
   <name>mycompany_ament_copyright</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ryoyoshimitsu@gmail.com">control</maintainer>
+  <description>My Company Copyright</description>
+  <maintainer email="ryoyoshimitsu@gmail.com">ryo4432</maintainer>
   <license>Apache License 2.0</license>
 
   <exec_depend>ament_lint</exec_depend>

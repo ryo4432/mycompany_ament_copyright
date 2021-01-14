@@ -34,8 +34,5 @@ The ability to check sources file for copyright and license information.""",
         'console_scripts': [
             'mycompany_ament_copyright = mycompany_ament_copyright.main:main',
         ],
-        'pytest11': [
-            'ament_copyright = ament_copyright.pytest_marker',
-        ],
     },
 )
